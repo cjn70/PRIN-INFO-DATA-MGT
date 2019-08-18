@@ -4,8 +4,8 @@ The functionality includes,
 
 I. Create accounts ofusers;login, logout.
 
-II. User functionality
-  -let people search for flights
+II. User functionality.
+  -let people search for flights.
    -one way
    -round-trip
    -flexible date/time
